@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ifk:home|Door43 (ifk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ifk|d43-ifk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ifk/archive/master.zip|d43-ifk.zip]]
+
+**Recent Changes**
+{{changes>ns = ifk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ifk|Ethnologue data]]
+
